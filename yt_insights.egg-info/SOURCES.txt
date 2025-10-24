@@ -1,0 +1,5 @@
+setup.py
+yt_insights.egg-info/PKG-INFO
+yt_insights.egg-info/SOURCES.txt
+yt_insights.egg-info/dependency_links.txt
+yt_insights.egg-info/top_level.txt

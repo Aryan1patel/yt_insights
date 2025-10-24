@@ -1,0 +1,4 @@
+2026-03-17 18:37:41,730 - model_building - ERROR - File not found: /Users/aryanpatel/Desktop/YT_insights/params.yaml
+2026-03-17 18:37:41,730 - model_building - ERROR - Failed to complete the feature engineering and model building process: [Errno 2] No such file or directory: '/Users/aryanpatel/Desktop/YT_insights/params.yaml'
+2026-03-17 18:41:11,893 - model_building - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: '/Users/aryanpatel/Desktop/YT_insights/data/interim/train_processed.csv'
+2026-03-17 18:41:11,893 - model_building - ERROR - Failed to complete the feature engineering and model building process: [Errno 2] No such file or directory: '/Users/aryanpatel/Desktop/YT_insights/data/interim/train_processed.csv'
